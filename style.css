@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: roboto;
 }
 
 header{
@@ -11,7 +12,7 @@ header{
     align-content: center;
     background-color: black;
     color: white;
-    font-family: sans-serif;
+
 }
 
 a{
